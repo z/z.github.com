@@ -1,0 +1,29 @@
+body {
+	margin:0;
+	padding:0;
+	background-color:#111;
+	color:#999;
+	font-family:sans-serif,verdana,arial,tahoma;
+	font-size:18px;
+}
+#header {
+	height:0;
+	color:#111;
+}
+#text {
+	font-weight:bold;
+	height: 100px;
+	width: 100%;
+	text-align:left;
+	background: none;
+	border: none;
+}
+#line {
+	height:5px;
+	width:100%;
+	background-color:#4BA42B;
+	display:block;
+}
+#content {
+	padding:20px;
+}
